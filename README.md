@@ -2,6 +2,8 @@
 
 Pulls a user's currently open tasks and displays them in a 1-week view as a Lightning Web Component.  Includes tiny Apex class to pull user's tasks.
 
+Uses FullCalendarJS: [https://fullcalendar.io/](https://fullcalendar.io/)
+
 Adapted from: [https://github.com/jh-salesforce-dev/lwcCalendar](https://github.com/jh-salesforce-dev/lwcCalendar)
 
 Opens tasks on click in Sales Console tabs.
