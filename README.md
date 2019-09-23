@@ -27,3 +27,6 @@ I'm writing this section in 5 minutes, not that it should only take you 5 minute
 
 ## Need help?
 Feel free to raise an issue here and we'll do our best to provide guidance, time allowing.
+
+## Hacktoberfest
+This repository is open to pull requests, especially for Hacktoberfest.  Want to add functionality?  Want to flesh out the deployment instructions? Have another idea? Welcome!
